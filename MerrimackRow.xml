@@ -1,4 +1,1 @@
-<?xml version="1.0" encoding="utf-16"?>
-<Row xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Current>67</Current>
-</Row>
+{"name": "John Doe", "age": 30}
